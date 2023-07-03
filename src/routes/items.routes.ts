@@ -1,5 +1,5 @@
 import express, { Request, Response} from "express"
-import { gv } from '../../types'
+import { gv } from '../types'
 import * as ItemService from '../items/items.service'
 
 const router = express.Router()

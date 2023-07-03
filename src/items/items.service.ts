@@ -1,4 +1,4 @@
-import { gv } from '../../types'
+import { gv } from '../types'
 
 let items: gv.Items = {
   1: {
